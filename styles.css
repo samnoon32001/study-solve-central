@@ -111,7 +111,7 @@ header h1 {
 }
 
 .content-highlight {
-    flex: 0 0 31%; /* Adjust width for each content highlight */
+    flex: 0 0 15.5%; /* Adjust width for each content highlight */
     margin-bottom: 20px;
     background-color: #fff; /* Highlight background */
     border-radius: 5px;
