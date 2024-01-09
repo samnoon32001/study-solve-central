@@ -1,7 +1,7 @@
 // Wait for the DOM content to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
     // Get all university links
-    const uniLinks = document.querySelectorAll('.uni-link');
+    const uniLinks = document.querySelectorAll('.uni-box');
 
     // Add click event listeners to each university link
     uniLinks.forEach(link => {
